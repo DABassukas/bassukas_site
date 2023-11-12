@@ -1,0 +1,27 @@
+---
+title: "Teaching"
+---
+
+I believe in cultivating an inclusive and engaging learning environment where students are active participants in their own intellectual growth. My teaching covers the use of GIS and Spatial Data Management & Analysis with modern and open-source tools (QGIS, Python programming). 
+
+## B.Sc.
+
+**ts2 - Geographical Information Systems (GIS)** | April 2022 - Present
+
+Summer semester course in the framework of the Urban Planning BSc, Technische Hochschule Lübeck
+
+**ts3 - Raumbezogenes Datenmanagement  (GIS)** | September 2022 - Present
+
+Winter semester course in the framework of the Urban Planning BSc, Technische Hochschule Lübeck
+
+## M.Sc.
+
+**wem1210 - Geographic Information Systems (GIS)** | March 2023 - July 2023
+
+Summer semester course taught in the combined framework of the [Water Engineering, M.Sc (WEM)](https://www.th-luebeck.de/en/studies/study-offer/degree-programs/water-engineering-master-msc/overview/) and the [Erasmus Mundus Joint Master in Applied Ecohydrology (MAEH)](https://maeh-mundus.eu/)
+
+## Awards
+
+ **Nomination** - Teaching prize 2023 Technische Hochschule Lübeck (Presidency)
+
+ **Nomination** - Best lecturer 2023 Technische Hochschule Lübeck (Students)

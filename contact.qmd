@@ -1,0 +1,76 @@
+---
+title: "Contact"
+---
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leaflet Map</title>
+  <!-- Include Leaflet CSS and JavaScript -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <style>
+    /* Set the map container size */
+    #map {
+      height: 400px;
+    }
+  </style>
+</head>
+
+
+<details>
+  <summary> Direct </summary>
+  <p> 
+  
+  You can contact me directly @: [dimitrios.bassukas@th-luebeck.de](mailto:dimitrios.bassukas@th-luebeck.de)
+  
+  </p>
+</details> 
+
+<hr>
+
+<details>
+  <summary> Office Address </summary>
+  <p> 
+  
+Technische Hochschule Lübeck
+
+**Department of Architecture and Civil Engineering**
+
+Laboratory of Hydrology and International Water Management
+
+Mönkhofer Weg 239
+
+23562 Lübeck, GERMANY
+
+Building 14, Room K.22
+  
+  </p>
+
+
+
+</details> 
+
+
+<!-- Create a div to hold the map -->
+<div id="map"></div>
+
+<script>
+  // Initialize the map
+  var mymap = L.map('map').setView([53.83631535228778, 10.697855511173488], 14);
+
+  // Add the base map layer (OpenStreetMap)
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  }).addTo(mymap);
+
+  // Add a marker at the city of Lübeck
+  var marker = L.marker([53.83631535228778, 10.697855511173488]).addTo(mymap);
+
+  // Add a popup to the marker
+  marker.bindPopup(
+    "<b>Laboratory of Hydrology</b><br>" +
+    "Technische Hochschule Lübeck<br>" +
+    "<a href='https://maps.app.goo.gl/4hHfAXgTHZsp7aTL8' target='_blank'>Get me there</a>"
+  ).openPopup();
+</script>

@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "💧"
+  navbar:
+    title: false
+    collapse: true
+    right:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: posts.qmd
+        text: Posts
+      - href: contact.qmd
+        text: Contact
+  page-footer: 
+      background: light
+      left: Copyright 2023, Dimitrios Bassukas
+      right: This website is built with [Quarto](https://quarto.org/)
+execute:
+  freeze: auto
+
+format:
+  html:
+    page-layout: full
+    theme: lumen
+    css: styles.css
+    toc: true
+
+
+

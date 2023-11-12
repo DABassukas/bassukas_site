@@ -1,0 +1,18 @@
+---
+title: "blog post title"
+description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+author:
+  - name: Dimitrios Bassukas
+    url: https://dabassukas.github.io/
+    orcid: 0000-0001-8152-0347
+    affiliation: Laboratory of Hydrology, Technische Hochschule Lübeck
+    #affiliation-url: https://ucsb-meds.github.io/ 
+date: 11-12-2023
+categories: [Hydrology, Mixing Cell Modeling] # self-defined categories
+#citation: 
+#  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+# image: preview-image.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Test

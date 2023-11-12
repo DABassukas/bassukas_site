@@ -1,0 +1,41 @@
+---
+title: "Contact me"
+---
+
+# Contact Us
+
+Feel free to reach out to us for any inquiries or feedback. We're here to help!
+
+## Contact Information
+
+- **Email:** [dimitrios.bassukas@th-luebeck.de](mailto:dimitrios.bassukas@th-luebeck.de)
+
+## Office Address
+
+Technische Hochschule Lübeck
+**Department of Architecture and Civil Engineering**
+
+Mönkhofer Weg 239
+23562 Lübeck, GERMANY
+Building 14, Room K.22
+
+
+## Social Media
+
+Connect with me on social media:
+
+- [Linkedin](https://www.linkedin.com/in/dimitrios-bassukas-49ab5623a/)
+- [Researchgate](https://www.researchgate.net/profile/Dimitrios-Bassukas)
+
+## Contact Form
+
+**Name:**
+<input type="text" name="name" required>
+
+**Email:**
+<input type="email" name="email" required>
+
+**Message:**
+<textarea name="message" rows="4" required></textarea>
+
+<button type="submit">Submit</button>

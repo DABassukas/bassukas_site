@@ -1,0 +1,53 @@
+---
+title: Dimitrios Bassukas 
+about:
+  image: profile.jpg
+  id: hero-heading
+  template: solana
+  links:
+    - icon: bi-box-arrow-up-right
+      text: Linkedin
+      href: https://www.linkedin.com/in/dimitrios-bassukas-49ab5623a/
+    - icon: bi-box-arrow-up-right
+      text: Github
+      href: https://github.com/dabassukas
+    - icon: bi-box-arrow-up-right
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Nmr1VmMAAAAJ&hl=el  
+    - icon: bi-box-arrow-up-right
+      text: Hydrology Lab THL
+      href: https://uhydro.de/water/
+---
+
+::: {#hero-heading style="width: 100%;"}
+
+I am currently a Research Associate at the  [Hydrology Lab, Technische Hochschule Lübeck](https://uhydro.de/water/) led by Prof. Dr. C. Külls. Concurrently, I am pursuing a Ph.D. in Hydro(geo)logy at TU Darmstadt, with joint supervision from Prof. Dr. C. Schüth and Prof. Dr. C. Külls.
+
+## Research interests
+
+- Groundwater salinization
+- Hydrogeochemistry
+- Isotope Hydrology 
+- Compartment models 
+
+## Experience
+
+-   Research associate (with teaching duties) Laboratory of Hydrology THL | Sep 2022 - Present
+-   Research associate in the [MEDSAL project](https://medsal.eu/) Laboratory of Hydrology THL | Oct 2021 - Aug 2022
+-   Student researcher at Laboratory of Sedimentology - University of Patras | Mar 2017- Dec 2020
+
+## Education
+
+-   **PhD Candidate in Hydro(geo)logy** \| Mar 2023 -- Present
+
+    *Technische Universität Darmstadt \| Darmstadt, DE*
+
+-   **M.Sc. Environmental sciences** \| Oct 2018 -- Dec 2020
+
+    *University of Patras \| Patras, GR*
+
+-   **B.Sc. Geology (4-yr programme)** \| Oct 2014 -- Sep 2018
+
+    *University of Patras \| Patras, GR*
+
+:::
